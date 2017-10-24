@@ -1,0 +1,10 @@
+img {
+  width : 250px;
+  height : auto;
+
+}
+
+.thumbs {
+  clear:both;
+  float: right;
+}
